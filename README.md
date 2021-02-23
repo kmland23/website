@@ -8,5 +8,9 @@ more changes
 
 making other changes to the file for rebase
 
+<<<<<<< HEAD
 
 making changes to deal with conflicts
+=======
+add some more text
+>>>>>>> 5ce6101836444f269bc3455f3e3be722850d662d
